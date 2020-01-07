@@ -18,7 +18,7 @@
                      </div>
                      <hr/>
                     @endforeach
-                    <div class="text-cente">
+                    <div class="max-auto">
                      {{$questions->links()}}
                     </div>
                 </div>
